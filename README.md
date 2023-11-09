@@ -52,7 +52,7 @@ For example BombParty, jklm.fun
 
 ## Dependencies
 
-- [Pyperclip](https://pypi.org/project/pyperclip/): A cross-platform clipboard module for Python, used to copy the random word to the clipboard.
+[Pyperclip](https://pypi.org/project/pyperclip/): A cross-platform clipboard module for Python, used to copy the random word to the clipboard.
 
 ---
 
@@ -60,4 +60,8 @@ For example BombParty, jklm.fun
 
 `pip install pyperclip`
 
+---
 
+## Picture for the script
+
+![Alt text](https://imageupload.io/ib/8FGkX0cA22aQvcr_1699554488.png)
